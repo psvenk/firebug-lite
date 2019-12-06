@@ -2,7 +2,7 @@ var firebug = {
   version:[1.231,20100118],
   el:{}, 
   env:{ 
-    "css":"http://getfirebug.com/releases/lite/1.2/firebug-lite.css", 
+    "css":"https://psvenk.github.io/firebug-lite/firebug-lite.css", 
     "debug":true,
     "detectFirebug":true,
     "dIndex":"console", 
